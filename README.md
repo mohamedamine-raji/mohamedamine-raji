@@ -1,16 +1,28 @@
-## Hi there 👋
 
-<!--
-**mohamedamine-raji/mohamedamine-raji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Mohamed Amine 👋
 
-Here are some ideas to get you started:
+🎓 Computer Science Student at TU Dortmund
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Aspiring Software Developer
+
+## About Me
+- Interested in Backend Development
+- Currently learning Java and Spring Boot
+- Building real-world projects
+
+## Tech Stack
+- Java
+- C / C++
+- SQL
+- Git & GitHub
+
+## My Projects
+- Task Manager (Planned)
+- Expense Tracker (Planned)
+- University Course Manager (Planned)
+- Job Application Tracker (Planned)
+
+## My Goals
+- Become a better software developer
+- Build professional software projects
+- Gain experience as a Werkstudent
